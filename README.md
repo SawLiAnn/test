@@ -13,3 +13,8 @@ git remote rm origin
 4. git commit -m "<ur message>"
 5. git status
 6. git push -u origin <branches> // branches=refer to github website (Ex:main)
+
+
+
+
+im editing here //jiajun12
